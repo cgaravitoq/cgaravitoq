@@ -5,8 +5,8 @@
 I specialize in **LLM orchestration**, **multi-agent architectures**, and **scalable automation** — bridging the gap between AI research and real-world applications.
 
 [![Website](https://img.shields.io/badge/Website-cgaravito.dev-blue?style=flat)](https://cgaravito.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/carlosgprojects)
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/cgaravitoq)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/cgaravitodev)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/cgaravitoqp)
 
 ---
 
