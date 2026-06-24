@@ -27,7 +27,7 @@ RAG Pipelines  │  Drizzle ORM    │  Vercel
 - Building **agentic systems** that orchestrate complex workflows autonomously
 - Exploring **multi-model architectures** (Claude + GPT + local models)
 - Making AI infrastructure **reliable at scale** with observability and cost control
-- 📚 Master's in Cloud Computing & AI (ongoing)
+- Master's in Cloud Computing & AI
 
 ---
 
