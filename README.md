@@ -1,36 +1,19 @@
-# Hey, I'm Carlos
+# Carlos Garavito
 
-**AI Engineer** building intelligent systems that ship to production.
+AI Engineer with a background in full-stack development and cloud infrastructure.
+I build LLM agents, tools for developers and web applications, mainly in TypeScript and Python.
 
-I specialize in **LLM orchestration**, **multi-agent architectures**, and **scalable automation** — bridging the gap between AI research and real-world applications.
+[Portfolio & blog](https://cgaravito.dev) · [LinkedIn](https://www.linkedin.com/in/cgaravitodev/) · [YouTube](https://www.youtube.com/@cgaravitoq-ai)
 
-[![Website](https://img.shields.io/badge/Website-cgaravito.dev-blue?style=flat)](https://cgaravito.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/cgaravitodev)
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/cgaravitoqp)
+## Selected projects
 
----
+- [open-langchain](https://github.com/cgaravitoq/open-langchain) / [open-langchain-ts](https://github.com/cgaravitoq/open-langchain-ts) - Python and TypeScript adapters for using coding-agent subscriptions with LangChain and LangGraph.
+- [my-opencode](https://github.com/cgaravitoq/my-opencode) - OpenCode configuration for read-only code review with a team of specialized agents.
+- [shopify-hermes-agent](https://github.com/cgaravitoq/shopify-hermes-agent) - A self-hosted Shopify assistant operated through Telegram, built on Hermes.
+- [motion-shorts](https://github.com/cgaravitoq/motion-shorts) - Turn scripts into vertical motion-graphics videos with animation, narration and captions.
 
-## Tech Stack
+## Tools I work with
 
-```
-AI/ML          │  TypeScript     │  Infrastructure
-───────────────┼─────────────────┼──────────────────
-LangChain      │  Next.js 15     │  AWS / GCP
-OpenAI API     │  React          │  Docker
-Claude API     │  Node.js        │  Terraform
-Multi-Agents   │  tRPC           │  CI/CD
-RAG Pipelines  │  Drizzle ORM    │  Vercel
-```
+TypeScript, Python, LangGraph, MCP, React, Astro, Cloudflare Workers, Docker and Terraform.
 
-## Current Focus
-
-- Building **agentic systems** that orchestrate complex workflows autonomously
-- Exploring **multi-model architectures** (Claude + GPT + local models)
-- Making AI infrastructure **reliable at scale** with observability and cost control
-- Master's in Cloud Computing & AI
-
----
-
-<p align="center">
-  <sub>🇪🇸 Valencia, Spain · Currently at <a href="https://github.com/vidext">@Vidext</a> · Building the future, one agent at a time</sub>
-</p>
+Based in Valencia, Spain.
