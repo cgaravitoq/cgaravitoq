@@ -7,6 +7,7 @@ The work spans agent runtimes, evals, observability and delivery pipelines, main
 
 ## Selected projects
 
+- [framesearch](https://github.com/cgaravitoq/framesearch) - Find a film shot by describing it, with frame and caption embeddings ranked in a Cloudflare Worker and keyword hits fused in; [live demo](https://framesearch.carlos-garavito.workers.dev).
 - [agentic-slack](https://github.com/cgaravitoq/agentic-slack) - Self-hosted Slack agent runtime on Cloudflare Workers, with streamed replies, durable conversations and configurable retention.
 - [tokenmax](https://github.com/cgaravitoq/tokenmax) - Self-hostable usage tracking for coding agents, combining a local collector with a Cloudflare API for token counts and estimated costs by provider and model.
 - [pi-credential-pool](https://github.com/cgaravitoq/pi-credential-pool) - Local OpenCode Go credential pooling for Pi, with per-account usage and failover before output starts, never replaying a partially delivered response.
